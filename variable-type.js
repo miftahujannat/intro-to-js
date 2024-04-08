@@ -17,4 +17,10 @@ var secondnumber = 0.2;
 var total = firstnumber + secondnumber;
 total = total.toFixed(1);
 total = parseFloat(total);
-console.log(total);
+// console.log(total);
+
+// modlus
+var mangoes = 7;
+var hungryperson = 2;
+var remaining = mangoes % hungryperson;
+console.log(remaining);

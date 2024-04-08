@@ -15,3 +15,4 @@ var moneyavailable = 100;
 var orangeprice = 5;
 var moneyquntity = moneyavailable / orangeprice;
 console.log(moneyquntity);
+
